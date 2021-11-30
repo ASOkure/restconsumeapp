@@ -10,4 +10,5 @@ public class RestconsumeappApplication {
 		SpringApplication.run(RestconsumeappApplication.class, args);
 	}
 
+	
 }
